@@ -22,3 +22,6 @@ Python, pandas, matplotlib, Google sheets
 ### Additional Project Notes
 - The data loggers are still active as of September 2025.
 - I am building and reworking scripts to automate the data cleaning and storing process in case another uVic student decides to continue exploring the data.
+- A tipping bucket was installed in the area to measure precipitation but due to some environmental factors (freezing), weather station data was used instead.
+  The tipping bucket data was still included in the repository.
+- I graphed 6 Case studies but several of them were scrapped before the actual Honors defense.  
