@@ -1,4 +1,4 @@
-# Gordon River Watershed Honors Project
+# Karst Hydrology Honors Project - Cleaning and Graphing Primary Source Data
 
 ### Business Objective
 I was tasked to clean, organise and plot data retrieved from two HOBO data loggers; the devices submerged in water collect hydrological data such as water temperature, 
