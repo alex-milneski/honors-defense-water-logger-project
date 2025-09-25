@@ -24,4 +24,7 @@ Python, pandas, matplotlib, Google sheets
 - I am building and reworking scripts to automate the data cleaning and storing process in case another uVic student decides to continue exploring the data.
 - A tipping bucket was installed in the area to measure precipitation but due to some environmental factors (freezing), weather station data was used instead.
   The tipping bucket data was still included in the repository.
-- I graphed 6 Case studies but several of them were scrapped before the actual Honors defense.  
+- I graphed 6 Case studies but several of them were scrapped before the actual Honors defense.
+
+<center><img src="https://github.com/alex-milneski/honors-defense-water-logger-project/blob/b22faf2ee050960b1312950b41ee382f0d35496a/Jaymie's%20Honor%20Defense%20Data/CS1.png" width="700" height="500"></center>
+	
