@@ -26,5 +26,7 @@ Python, pandas, matplotlib, Google sheets
   The tipping bucket data was still included in the repository.
 - I graphed 6 Case studies but several of them were scrapped before the actual Honors defense.
 
+### Visualizations
+
 <center><img src="https://github.com/alex-milneski/honors-defense-water-logger-project/blob/b22faf2ee050960b1312950b41ee382f0d35496a/Jaymie's%20Honor%20Defense%20Data/CS1.png" width="700" height="500"></center>
 	
